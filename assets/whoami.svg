@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" width="900" height="400" role="img" aria-label="Terminal con presentación de Miguel Angel Huamani Rojas">
+<defs>
+  <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#0a1a5c"/><stop offset="1" stop-color="#1f4fd1"/>
+  </linearGradient>
+  <filter id="glow" x="-10%" y="-10%" width="120%" height="120%">
+    <feGaussianBlur stdDeviation="2.4" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+    <rect width="4" height="1" fill="#000" opacity=".22"/>
+  </pattern>
+</defs>
+<style>
+  text { font-family: 'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace; font-size: 15px; }
+  .ln { animation: show .01s backwards; }
+  .cur { animation: cur 1s steps(1) infinite; }
+  @keyframes show { from { opacity: 0 } }
+  @keyframes cur { 50% { opacity: 0 } }
+</style>
+<rect x="3" y="3" width="894" height="394" rx="14" fill="#050f33" stroke="#3a7bff" stroke-width="2"/>
+<path d="M3 17a14 14 0 0 1 14-14h866a14 14 0 0 1 14 14v28H3z" fill="url(#bar)"/>
+<circle cx="30" cy="24" r="6" fill="#3a7bff"/>
+<circle cx="52" cy="24" r="6" fill="#01cdfe"/>
+<circle cx="74" cy="24" r="6" fill="#8ecbff"/>
+<text x="450.0" y="29" text-anchor="middle" fill="#01cdfe" style="font-size:13px;letter-spacing:2px">miguel@lima: ~</text>
+<g filter="url(#glow)"><text class="ln" x="34" y="96" xml:space="preserve" style="animation-delay:0.90s"><tspan fill="#01cdfe">miguel@lima</tspan><tspan fill="#8ecbff">:~$ </tspan><tspan fill="#9fd0ff">whoami</tspan></text><text class="ln" x="34" y="122" xml:space="preserve" style="animation-delay:1.15s"><tspan fill="#e6f1ff">Miguel Angel Huamani Rojas</tspan></text><text class="ln" x="34" y="148" xml:space="preserve" style="animation-delay:1.65s"><tspan fill="#01cdfe">miguel@lima</tspan><tspan fill="#8ecbff">:~$ </tspan><tspan fill="#9fd0ff">cat estudios.txt</tspan></text><text class="ln" x="34" y="174" xml:space="preserve" style="animation-delay:1.90s"><tspan fill="#e6f1ff">Ingeniería de Sistemas Computacionales · 10.º ciclo · Universidad Privada del Norte</tspan></text><text class="ln" x="34" y="200" xml:space="preserve" style="animation-delay:2.40s"><tspan fill="#01cdfe">miguel@lima</tspan><tspan fill="#8ecbff">:~$ </tspan><tspan fill="#9fd0ff">cat enfoque.txt</tspan></text><text class="ln" x="34" y="226" xml:space="preserve" style="animation-delay:2.65s"><tspan fill="#e6f1ff">Frontend (React, Three.js) · UX/UI · Redes · Ciberseguridad básica</tspan></text><text class="ln" x="34" y="252" xml:space="preserve" style="animation-delay:3.15s"><tspan fill="#01cdfe">miguel@lima</tspan><tspan fill="#8ecbff">:~$ </tspan><tspan fill="#9fd0ff">cat experiencia.txt</tspan></text><text class="ln" x="34" y="278" xml:space="preserve" style="animation-delay:3.40s"><tspan fill="#e6f1ff">Practicante pre-profesional · Dicta SAS (Colombia) · 2025</tspan></text><text class="ln" x="34" y="304" xml:space="preserve" style="animation-delay:3.65s"><tspan fill="#e6f1ff">UX Designer Jr · Ciclos Studio (freelance, remoto) · 2021-2022</tspan></text><text class="ln" x="34" y="330" xml:space="preserve" style="animation-delay:4.15s"><tspan fill="#01cdfe">miguel@lima</tspan><tspan fill="#8ecbff">:~$ </tspan><tspan fill="#9fd0ff">echo $UBICACION</tspan></text><text class="ln" x="34" y="356" xml:space="preserve" style="animation-delay:4.40s"><tspan fill="#e6f1ff">Lima, Perú</tspan></text><text class="ln" x="34" y="382" xml:space="preserve" style="animation-delay:4.90s"><tspan fill="#01cdfe">miguel@lima</tspan><tspan fill="#8ecbff">:~$ </tspan><tspan class="cur" fill="#01cdfe">█</tspan></text></g>
+<rect x="3" y="3" width="894" height="394" rx="14" fill="url(#scan)" pointer-events="none"/>
+</svg>

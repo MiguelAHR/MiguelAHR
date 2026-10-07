@@ -1,96 +1,90 @@
 <div align="center">
 
-```text
-███╗   ███╗ █████╗ ██╗  ██╗██████╗ 
-████╗ ████║██╔══██╗██║  ██║██╔══██╗
-██╔████╔██║███████║███████║██████╔╝
-██║╚██╔╝██║██╔══██║██╔══██║██╔══██╗
-██║ ╚═╝ ██║██║  ██║██║  ██║██║  ██║
-╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
-```
+[![Banner de Miguel Angel Huamani Rojas](assets/banner.svg)](https://github.com/MiguelAHR)
 
-### `MIGUEL ANGEL HUAMANI ROJAS`
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=640&lines=Ingenier%C3%ADa+de+Sistemas+Computacionales;Frontend+%26+UX+%7C+React+%2B+Three.js;Redes+%C2%B7+Ciberseguridad+b%C3%A1sica;Lima%2C+Per%C3%BA)](https://github.com/MiguelAHR)
+![Visitas](https://komarev.com/ghpvc/?username=MiguelAHR&style=for-the-badge&color=8ecbff&labelColor=050f33&label=VISITAS)
 
 </div>
 
 ---
 
-### 💻 `> whoami`
+## `$ whoami`
 
-```text
-C:\Users\miguel> whoami
-Miguel Angel Huamani Rojas
+<div align="center">
 
-C:\Users\miguel> type estudios.txt
-Ingeniería de Sistemas Computacionales (10.º ciclo)
-Universidad Privada del Norte · Lima, Perú
+![Terminal](assets/whoami.svg)
 
-C:\Users\miguel> type intereses.txt
-Frontend (React, Three.js) · Diseño UX/UI · Redes · Seguridad informática (nivel básico)
+</div>
 
-C:\Users\miguel> type experiencia.txt
-[2025] Practicante pre-profesional · Dicta SAS (Colombia) · Frontend con React y Three.js
-[2021-2022] UX Designer Jr · Ciclos Studio (freelance, remoto) · UI, prototipos y Node.js
-
-C:\Users\miguel> _
-```
+> 🌴 *vibe: city pop · noche en Lima · compilando…*
 
 ---
 
-### 🕹️ `> dir /tecnologias`
+## `$ cat stack.yaml`
 
 **Lenguajes**
 
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=00FF00)
-![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=dotnet&logoColor=00FF00)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00FF00)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=00FF00)
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00FF00)
-![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=00FF00)
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=00FF00)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00FF00)
+![Java](https://img.shields.io/badge/Java-050f33?style=for-the-badge&logo=openjdk&logoColor=8ecbff)
+![C#](https://img.shields.io/badge/C%23-050f33?style=for-the-badge&logo=dotnet&logoColor=8ecbff)
+![JavaScript](https://img.shields.io/badge/JavaScript-050f33?style=for-the-badge&logo=javascript&logoColor=8ecbff)
+![TypeScript](https://img.shields.io/badge/TypeScript-050f33?style=for-the-badge&logo=typescript&logoColor=8ecbff)
+![Python](https://img.shields.io/badge/Python-050f33?style=for-the-badge&logo=python&logoColor=8ecbff)
+![PHP](https://img.shields.io/badge/PHP-050f33?style=for-the-badge&logo=php&logoColor=8ecbff)
+![HTML5](https://img.shields.io/badge/HTML5-050f33?style=for-the-badge&logo=html5&logoColor=8ecbff)
+![CSS3](https://img.shields.io/badge/CSS3-050f33?style=for-the-badge&logo=css3&logoColor=8ecbff)
 
 **Frontend y Backend**
 
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00FFFF)
-![Three.js](https://img.shields.io/badge/Three.js-0D1117?style=for-the-badge&logo=threedotjs&logoColor=00FFFF)
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=00FFFF)
+![React](https://img.shields.io/badge/React-050f33?style=for-the-badge&logo=react&logoColor=01cdfe)
+![Three.js](https://img.shields.io/badge/Three.js-050f33?style=for-the-badge&logo=threedotjs&logoColor=01cdfe)
+![Node.js](https://img.shields.io/badge/Node.js-050f33?style=for-the-badge&logo=nodedotjs&logoColor=01cdfe)
 
 **Bases de datos y servidores**
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-0D1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=00FF00)
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00FF00)
-![Windows Server](https://img.shields.io/badge/Windows_Server_2019-0D1117?style=for-the-badge&logo=windows&logoColor=00FF00)
+![SQL Server](https://img.shields.io/badge/SQL_Server-050f33?style=for-the-badge&logo=microsoftsqlserver&logoColor=01cdfe)
+![MySQL](https://img.shields.io/badge/MySQL-050f33?style=for-the-badge&logo=mysql&logoColor=01cdfe)
+![Windows Server](https://img.shields.io/badge/Windows_Server_2019-050f33?style=for-the-badge&logo=windows&logoColor=01cdfe)
 
 **Redes y seguridad**
 
-![Cisco](https://img.shields.io/badge/CCNA_·_Packet_Tracer-0D1117?style=for-the-badge&logo=cisco&logoColor=00FFFF)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux_(básico)-0D1117?style=for-the-badge&logo=kalilinux&logoColor=00FFFF)
+![Cisco](https://img.shields.io/badge/CCNA_·_Packet_Tracer-050f33?style=for-the-badge&logo=cisco&logoColor=3a7bff)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux_(básico)-050f33?style=for-the-badge&logo=kalilinux&logoColor=3a7bff)
 
 **Herramientas**
 
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00FF00)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF00)
-![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=00FF00)
-![Power BI](https://img.shields.io/badge/Power_BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=00FF00)
-![Android Studio](https://img.shields.io/badge/Android_Studio-0D1117?style=for-the-badge&logo=androidstudio&logoColor=00FF00)
-![Arduino](https://img.shields.io/badge/Arduino_IDE-0D1117?style=for-the-badge&logo=arduino&logoColor=00FF00)
-![Office 365](https://img.shields.io/badge/Office_365-0D1117?style=for-the-badge&logo=microsoftoffice&logoColor=00FF00)
+![Git](https://img.shields.io/badge/Git-050f33?style=for-the-badge&logo=git&logoColor=8ecbff)
+![GitHub](https://img.shields.io/badge/GitHub-050f33?style=for-the-badge&logo=github&logoColor=8ecbff)
+![Figma](https://img.shields.io/badge/Figma-050f33?style=for-the-badge&logo=figma&logoColor=8ecbff)
+![Power BI](https://img.shields.io/badge/Power_BI-050f33?style=for-the-badge&logo=powerbi&logoColor=8ecbff)
+![Android Studio](https://img.shields.io/badge/Android_Studio-050f33?style=for-the-badge&logo=androidstudio&logoColor=8ecbff)
+![Arduino](https://img.shields.io/badge/Arduino_IDE-050f33?style=for-the-badge&logo=arduino&logoColor=8ecbff)
+![Office 365](https://img.shields.io/badge/Office_365-050f33?style=for-the-badge&logo=microsoftoffice&logoColor=8ecbff)
 
 ---
 
-### 📈 `> stats.exe`
+## `$ radar --scan`
 
 <div align="center">
-  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=MiguelAHR&show_icons=true&hide_title=true&bg_color=0D1117&title_color=00FF00&text_color=00FF00&icon_color=00FFFF&border_color=00FF00" />
-  <img height="170" alt="Top lenguajes" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelAHR&layout=compact&bg_color=0D1117&title_color=00FF00&text_color=00FF00&border_color=00FF00" />
+
+<img src="assets/radar-skills.svg" width="48%" alt="Radar de áreas de enfoque" />
+<img src="assets/radar-langs.svg" width="48%" alt="Radar de lenguajes" />
+
 </div>
 
 ---
 
-### 🚀 `> dir /proyectos`
+## `$ git stats`
+
+<div align="center">
+
+<img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=MiguelAHR&show_icons=true&hide_title=true&bg_color=050f33&title_color=01cdfe&text_color=01cdfe&icon_color=01cdfe&border_color=3a7bff" />
+<img height="170" alt="Top lenguajes" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelAHR&layout=compact&bg_color=050f33&title_color=01cdfe&text_color=01cdfe&border_color=3a7bff" />
+
+</div>
+
+---
+
+## `$ ls ~/proyectos`
 
 | Proyecto | Descripción | Tecnología |
 |---|---|---|
@@ -105,27 +99,24 @@ C:\Users\miguel> _
 
 ---
 
-### 🎓 `> type certificaciones.txt`
+## `$ cat certificaciones.log`
 
-- 🟢 **Scrum Fundamentals Certified (SFC)** · SCRUMstudy (VMEdu, Inc.) · 2024
-- 🟢 **Big Data Analyst** (certificación por competencias) · Universidad Privada del Norte · 2024
-- 🟢 **CCNA: Introducción a las redes** · Cisco Networking Academy (vía UPN) · 2026
-- 🟢 **Get Connected** · Cisco Networking Academy · 2024
-- 🟢 **IA Heroes Live** (asistencia, 8 h) · Learning Heroes · 2025
-- 🟢 **Curso intensivo de Oratoria I** · EduClase / Taller de Comunicación y Oratoria · 2022
+- 🔹 **Scrum Fundamentals Certified (SFC)** · SCRUMstudy (VMEdu, Inc.) · 2024
+- 🔹 **Big Data Analyst** (certificación por competencias) · Universidad Privada del Norte · 2024
+- 🔹 **CCNA: Introducción a las redes** · Cisco Networking Academy (vía UPN) · 2026
+- 🔹 **Get Connected** · Cisco Networking Academy · 2024
+- 🔹 **IA Heroes Live** (asistencia, 8 h) · Learning Heroes · 2025
+- 🔹 **Curso intensivo de Oratoria I** · EduClase / Taller de Comunicación y Oratoria · 2022
 
 ---
 
-### 📡 `> contact.exe`
+## `$ connect --contact`
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-miguel16hr%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=00FFFF)](mailto:miguel16hr@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-MiguelAHR-0D1117?style=for-the-badge&logo=github&logoColor=00FF00)](https://github.com/MiguelAHR)
+[![Email](https://img.shields.io/badge/Email-miguel16hr%40gmail.com-050f33?style=for-the-badge&logo=gmail&logoColor=8ecbff)](mailto:miguel16hr@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-MiguelAHR-050f33?style=for-the-badge&logo=github&logoColor=01cdfe)](https://github.com/MiguelAHR)
 
-```text
-C:\Users\miguel> exit
-[ Gracias por visitar mi perfil · Lima, Perú ]
-```
+<sub>Hecho con 💖 y synthwave · Lima, Perú</sub>
 
 </div>
